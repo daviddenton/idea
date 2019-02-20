@@ -1,0 +1,6 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <ignored-resource url="http://cxf.apache.org/jaxrs" />
+    <ignored-resource url="http://cxf.apache.org/schemas/jaxrs.xsd" />
+  </component>
+</application>

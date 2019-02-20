@@ -1,0 +1,248 @@
+<application>
+  <component name="CodeStyleSchemes">
+    <option name="CURRENT_SCHEME_NAME" value="Default" />
+  </component>
+  <component name="ErrorReportConfigurable">
+    <option name="ITN_LOGIN" value="" />
+    <option name="ITN_PASSWORD_CRYPT" value="" />
+    <option name="KEEP_ITN_PASSWORD" value="false" />
+    <option name="EMAIL" value="" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="$USER_HOME$/dev/packages/node/current/bin/node">
+      <version-cache version="4.5.0" last-modified="1471359700000" />
+    </local-interpreter>
+  </component>
+  <component name="NodeLocalInterpreterManager">
+    <node-interpreter path="$USER_HOME$/dev/packages/node/current/bin/node" version="5.1.0" last-modified="1447793407000" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="AFTER.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="0" />
+    <property name="AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="true" />
+    <property name="AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_STATUS_BAR" value="false" />
+    <property name="ActivityTracker-isTracking" value="true" />
+    <property name="ActivityTracker-mouseMoveEventsThresholdMs" value="250" />
+    <property name="ActivityTracker-pollIdeState" value="true" />
+    <property name="ActivityTracker-pollIdeStateMs" value="1000" />
+    <property name="ActivityTracker-trackIdeActions" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="1" />
+    <property name="BEFORE.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR" value="true" />
+    <property name="CREATE_FIELD_FROM_PARAMETER_DECLARE_FINAL" value="true" />
+    <property name="ColorChooser.RecentColors" value="46-123-244-246,,,6-6-6-255,,,0-0-0-255,,,255-255-255-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.68088233" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.7679558" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="DBE.Default.Dialect" value="" />
+    <property name="Darcula.savedEditorTheme" value="_@user_Darcula" />
+    <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
+    <property name="DefaultHtmlDoctype.Refreshed" value="2" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileChooser.ShowPath" value="true" />
+    <property name="FileStructurePopup.narrowDown" value="true" />
+    <property name="FileTemplates.CurrentTab" value="Code" />
+    <property name="FileTemplates.SelectedTemplate" value="Catch Statement Body" />
+    <property name="FindSplitterProportion" value="0.4040609" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="Gradle.Splitter.Proportion" value="0.2" />
+    <property name="GradleModuleWizard.inheritGroupId" value="true" />
+    <property name="GradleModuleWizard.inheritVersion" value="true" />
+    <property name="GradleSupport.hidePassedTests" value="true" />
+    <property name="HbAutoCollapseBlocks" value="disabled" />
+    <property name="HbAutocompleteMustaches" value="enabled" />
+    <property name="HbCommenterLanguageId" value="HTML" />
+    <property name="HbDisableAutoGenerateCloseTag" value="enabled" />
+    <property name="HbFormatter" value="enabled" />
+    <property name="INSPECTION_FILTER_HISTORY" value="declaration weaker" />
+    <property name="INTENTION_FILTER_HISTORY" value="put ar" />
+    <property name="InstalledPluginsSearchHistory" value="settings&#10;setting&#10;set" />
+    <property name="JUnit.Splitter.Proportion" value="0.19437653" />
+    <property name="JUnitSupport.hideIgnoredTests" value="false" />
+    <property name="JUnitSupport.hidePassedTests" value="true" />
+    <property name="JUnitSupport.sortTestsAlphabetically" value="true" />
+    <property name="KEYMAP" value="show inten&#10;add in&#10;delete&#10;quit&#10;push" />
+    <property name="LAST_INJECTED_LANGUAGE" value="JSON" />
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="LayoutCode.rearrangeEntriesJava" value="false" />
+    <property name="LayoutCode.rearrangeEntriesKotlin" value="false" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PLUGIN_FILTER" value="grap&#10;ignore&#10;gherkin&#10;okey&#10;makefile" />
+    <property name="RESTClient.httpMethod" value="GET&#10;POST&#10;PUT&#10;PATCH&#10;DELETE&#10;HEAD&#10;OPTIONS" />
+    <property name="Scala.Splitter.Proportion" value="0.17798014" />
+    <property name="Scala.Splitter.Proportion_Statistics" value="0.9078341" />
+    <property name="ScalaSupport.hideIgnoredTests" value="true" />
+    <property name="ScalaSupport.hidePassedTests" value="true" />
+    <property name="ScalaSupport.scrollToSource" value="true" />
+    <property name="ScalaSupport.showStatistics" value="true" />
+    <property name="ScalaSupport.sortTestsAlphabetically" value="false" />
+    <property name="SearchEveryWhereHistory" value="accounts&#10;any&#10;inco&#10;- w&#10;en" />
+    <property name="SettingsSearchHistory" value="export&#10;xpo&#10;settings&#10;account&#10;ug" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="SplitFileEditor.Proportion" value="0.85" />
+    <property name="TEMPLATES_FILTER_HISTORY" value="intell&#10;kotlin&#10;idea&#10;java&#10;kotl&#10;intelli" />
+    <property name="TestNG.Splitter.Proportion" value="0.26220018" />
+    <property name="TestNGSupport.hideConfig" value="true" />
+    <property name="TestNGSupport.hideIgnoredTests" value="false" />
+    <property name="TestNGSupport.hidePassedTests" value="true" />
+    <property name="TestNGSupport.sortTestsAlphabetically" value="false" />
+    <property name="TestNGSupport.sortTestsByDuration" value="false" />
+    <property name="Vcs.Log.Text.Filter.History" value="plugins&#10;maxlen&#10;b22be7c99287c9bbe91f1141c0f1b2c70b2cc366&#10;retry&#10;ad9aa7191" />
+    <property name="Vcs.Push.Splitter.Proportion" value="0.5007082" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.run.selection.state" value="consoleView" />
+    <property name="change.laf.on.editor.theme.change" value="true" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="-1" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.searchHistory" value="referen&#10;re&#10;repo&#10;TestSer&#10;TestEnv" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="227" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.intellij.history.integration.ui.views.SelectionHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.SelectionHistoryDialog.1" value="800" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Dependencies" />
+    <property name="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$1.splitter" value="0.3" />
+    <property name="create.project.preferred.importer" value="Existing Sources" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="delete.locally.added.files" value="true" />
+    <property name="dir.diff.panel.divider.location" value="13" />
+    <property name="dir.diff.space.button.info" value="1" />
+    <property name="disable.forced.soft.wraps.notification" value="true" />
+    <property name="es6.show.auto.import" value="true" />
+    <property name="evlsprt.15" value="151bbeb1e33" />
+    <property name="evlsprt.IU-142.4245" value="14ffc6f5980" />
+    <property name="evlsprt.IU-142.5047" value="1508ca16980" />
+    <property name="evlsprt.IU-143.249" value="150fe244000" />
+    <property name="evlsprt2.15" value="1519034d785" />
+    <property name="evlsprt2.IU-142.4245" value="14fbdbd1335" />
+    <property name="evlsprt2.IU-142.5047" value="1504f5be36d" />
+    <property name="evlsprt2.IU-143.249" value="150b811c085" />
+    <property name="evlsprt3.15" value="10" />
+    <property name="evlsprt3.162" value="11" />
+    <property name="evlsprt3.163" value="13" />
+    <property name="evlsprt3.171" value="17" />
+    <property name="evlsprt3.172" value="16" />
+    <property name="evlsprt3.173" value="15" />
+    <property name="evlsprt3.181" value="10" />
+    <property name="evlsprt3.182" value="18" />
+    <property name="evlsprt3.183" value="14" />
+    <property name="evlsprt3.IU-142.4245" value="16" />
+    <property name="evlsprt3.IU-142.5047" value="12" />
+    <property name="evlsprt3.IU-143.249" value="14" />
+    <property name="export.settings.path" value="$USER_HOME$/templates.jar" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/dev/client/oscar/oscar-router&#10;/Users/david/dev/client/laserwolf&#10;/Users/david/dev/personal/scala-extensions&#10;/Users/david/dev/client/vito&#10;/Users/david/Downloads/SpringerNature-SM/build.sbt&#10;/Users/david/Downloads&#10;/Users/david/Desktop/console-draw/build.sbt&#10;/Users/david/Desktop&#10;/Users/david/Downloads/Lukasz_Gasior&#10;/Users/david/dev/personal/configur8/scala/build.sbt&#10;/Users/david/Desktop/watermark&#10;/Users/david/dev/personal/msgpack4s&#10;/Users/david/Downloads/painter&#10;/Users/david/dev/personal/finagle-circuit&#10;/Users/david/dev/personal/finch&#10;/Users/david/dev/personal/finagle&#10;/Users/david/dev/personal/json4s&#10;/Users/david/dev/client/clewso&#10;/Users/david/Downloads/springer-test/build.gradle&#10;/Users/david/dev/client/collina&#10;/Users/david/dev/client/handlebars.scala&#10;/Users/david/dev/personal/pomgraph&#10;/Users/david/dev/client/recruitment-tests/pramod_bansal&#10;/Users/david/dev/client/recruitment-tests-watermark/daviddenton/build.sbt&#10;/Users/david/dev/client/recruitment-tests-watermark/daviddenton&#10;/Users/david/Downloads/springer/build.sbt&#10;/Users/david/Downloads/springer&#10;/Users/david/dev/client/oscarboard&#10;/Users/david/dev/personal/dynamostuff/dynamodb&#10;/Users/david/dev/personal/dynamostuff/dynamodb_local_2016-05-17" />
+    <property name="file.gist.reindex.count" value="231187" />
+    <property name="fileTypeChangedCounter" value="76" />
+    <property name="gradle.runner.text.console" value="true" />
+    <property name="gradle.runner.text.console_str" value="true" />
+    <property name="ignore.vmoptions.warn.message" value="true" />
+    <property name="ignoreUltimateEdition" value="true" />
+    <property name="installation.uid" value="1cd918c7-4de8-4b3e-b0b2-964c70cc35fd" />
+    <property name="installed.kotlin.plugin.version" value="1.3.11-release-IJ2018.3-1" />
+    <property name="introduce.variable.prefer.statements" value="false" />
+    <property name="java.module.default.source.root" value="src" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="jdk.selected.PYTHON_MODULE" value="Python 3.5.2 virtualenv at ~/dev/personal/mlip/venv" />
+    <property name="jdk.selected.RUBY_MODULE" value="rbenv: 2.2.3" />
+    <property name="js.rename.search.for.text.occurrences" value="false" />
+    <property name="js.rename.search.in.comments" value="true" />
+    <property name="junit_statistics_table_columnsOrder0" value="0" />
+    <property name="junit_statistics_table_columnsOrder1" value="1" />
+    <property name="junit_statistics_table_columnsOrder2" value="2" />
+    <property name="junit_statistics_table_columnsOrder3" value="3" />
+    <property name="junit_statistics_table_columnsOrder4" value="4" />
+    <property name="junit_statistics_table_columnsOrder5" value="5" />
+    <property name="junit_statistics_table_columnsWidth0" value="75" />
+    <property name="junit_statistics_table_columnsWidth1" value="75" />
+    <property name="junit_statistics_table_columnsWidth2" value="75" />
+    <property name="junit_statistics_table_columnsWidth3" value="75" />
+    <property name="junit_statistics_table_columnsWidth4" value="75" />
+    <property name="junit_statistics_table_columnsWidth5" value="75" />
+    <property name="kotlin.lastUpdateCheck" value="1550672138026" />
+    <property name="last.imported.location" value="$USER_HOME$/dev/personal/tax-calculator/build.gradle" />
+    <property name="last.used.gradle.home" value="$USER_HOME$/dev/personal/daviddenton/http4kbox/gradle" />
+    <property name="log.debug.categories" value="" />
+    <property name="markdown.do.not.ask.to.change.preview.provider" value="true" />
+    <property name="nodejs_interpreter_path" value="$USER_HOME$/dev/packages/node/current/bin/node" />
+    <property name="org.intellij.plugins.hcl.LAST_UPDATE" value="1549979026092" />
+    <property name="org.intellij.plugins.hcl.LAST_VERSION" value="0.6.13" />
+    <property name="param.hints.settings.last.edited.language" value="Groovy" />
+    <property name="plugins.preselection.path" value="$USER_HOME$/Downloads" />
+    <property name="project.wizard.group" value="EMPTY_MODULE" />
+    <property name="project.wizard.template" value="Empty Project" />
+    <property name="scala.last.updated" value="1520951415415" />
+    <property name="selected.color.option.type" value="LIVE_TEMPLATE_ATTRIBUTES" />
+    <property name="settings.code.style.selected.tab.Groovy" value="Wrapping and Braces" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Imports" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Wrapping and Braces" />
+    <property name="settings.code.style.selected.tab.Scala" value="Tabs and Indents" />
+    <property name="settings.code.style.selected.tab.kotlin" value="Imports" />
+    <property name="sm_test_statistics_table_columnsOrder0" value="0" />
+    <property name="sm_test_statistics_table_columnsOrder1" value="1" />
+    <property name="sm_test_statistics_table_columnsOrder2" value="2" />
+    <property name="sm_test_statistics_table_columnsWidth0" value="75" />
+    <property name="sm_test_statistics_table_columnsWidth1" value="75" />
+    <property name="sm_test_statistics_table_columnsWidth2" value="75" />
+    <property name="test_tree_console_proprtion" value="0.2" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+    <property name="typescript.merge.auto.import" value="true" />
+    <property name="typescript.show.auto.import" value="true" />
+    <property name="typescript.use.config.auto.import" value="false" />
+    <property name="typescript.use.directory.import.node" value="false" />
+    <property name="vcs.history.diff.splitter.proportion" value="0.44911146" />
+    <property name="vcs.history.splitter.proportion" value="0.713615" />
+    <property name="vcs.log.changes.splitter.proportion" value="0.7290749" />
+    <property name="vcs.log.details.splitter.proportion" value="0.8088737" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/dev/personal/mlip/venv/bin/python" value="false" />
+        <entry key="/usr/bin/python" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsApplicationSettings" PATCH_STORAGE_LOCATION="$USER_HOME$/Desktop">
+    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Desktop" />
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </recent_templates>
+  </component>
+  <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl" COMPARISON_POLICY="Ignore spaces" />
+</application>

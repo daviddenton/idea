@@ -1,0 +1,9 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="CloudConfigAction">
+        <abbreviation name="syncit" />
+      </action>
+    </abbreviations>
+  </component>
+</application>

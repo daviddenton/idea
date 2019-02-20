@@ -1,0 +1,43 @@
+<application>
+  <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="Project Files" />
+    <option name="defaultScopeName" value="Project Files" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
+    <mask>*.as</mask>
+    <mask>*.mxml</mask>
+    <mask>*.yml</mask>
+    <mask>*Docker*</mask>
+    <mask>.gitignore</mask>
+    <mask>Dockerfile</mask>
+    <mask>*.KT</mask>
+    <mask>*.bpmn</mask>
+    <mask>*proto</mask>
+    <mask>*md</mask>
+    <mask>*kt</mask>
+    <mask>MAkefile</mask>
+    <mask>*gradle</mask>
+    <mask>*Test.kt</mask>
+    <mask>*</mask>
+    <mask>*.mk</mask>
+    <mask>*.xml</mask>
+    <mask>values.yaml</mask>
+    <mask>*.py</mask>
+    <mask>*.java</mask>
+    <mask>Makefile</mask>
+    <mask>*.proto</mask>
+    <mask>*.md</mask>
+    <mask>*App.kt</mask>
+    <mask>*.css</mask>
+    <mask>*.sql</mask>
+    <mask>*.yaml</mask>
+    <mask>Jenkinsfile</mask>
+    <mask>*.gradle</mask>
+    <mask>*.kt</mask>
+  </component>
+</application>

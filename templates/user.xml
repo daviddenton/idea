@@ -1,0 +1,37 @@
+<templateSet group="user">
+  <template name="sout" value="println($content$)" description="sout scala" toReformat="false" toShortenFQNames="true">
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="SCALA" value="true" />
+    </context>
+  </template>
+  <template name="test" value="@org.junit.Test&#10;public void $name$() throws Exception {&#10;    $content$&#10;}" description="test java" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="desc" value="  describe($content1$) {&#10;    it($content2$) {&#10;      $content3$&#10;    }&#10;  }&#10;" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="content1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="content2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="content3" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="SCALA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="it" value="    it($content1$) {&#10;        $content2$&#10;    }&#10;" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="content1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="content2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="SCALA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="app" value="object $AnApp$ extends App {&#10;    $content$&#10;}" description="app" toReformat="false" toShortenFQNames="true">
+    <variable name="AnApp" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="SCALA" value="true" />
+    </context>
+  </template>
+</templateSet>

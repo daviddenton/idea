@@ -1,0 +1,14 @@
+<templateSet group="Kotlin">
+  <template name="test" value="@org.junit.Test&#10;fun `$name$`() {&#10;    com.natpryce.hamkrest.assertion.assertThat(false, com.natpryce.hamkrest.equalTo(false))&#10;}&#10;" description="kottest" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="inv" value="    operator fun invoke(): $TYPE$ = TODO()&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>

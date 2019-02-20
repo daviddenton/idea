@@ -1,0 +1,9 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Scala/Import/Import all members" />
+    <ignoreAction name="Kotlin/Add name to argument" />
+    <ignoreAction name="Kotlin/Add braces" />
+    <ignoreAction name="Kotlin/Convert concatenation to template" />
+    <ignoreAction name="Kotlin/Introduce local variable" />
+  </component>
+</application>

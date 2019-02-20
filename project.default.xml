@@ -1,0 +1,324 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="CompilerConfiguration">
+        <option name="BUILD_PROCESS_HEAP_SIZE" value="4096" />
+      </component>
+      <component name="Encoding" addBOMForNewFiles="with NO BOM">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="GradleLocalSettings">
+        <option name="modificationStamps">
+          <map>
+            <entry key="$USER_HOME$/Downloads/springer-drawing" value="2893806274000" />
+            <entry key="$USER_HOME$/Downloads/springer-test" value="2951738932000" />
+            <entry key="$USER_HOME$/dev/client/anura" value="2961891904000" />
+            <entry key="$USER_HOME$/dev/client/barelymagical" value="2941685996000" />
+            <entry key="$USER_HOME$/dev/client/bmc-members" value="2884663008000" />
+            <entry key="$USER_HOME$/dev/client/bmc-user-service" value="1430498124000" />
+            <entry key="$USER_HOME$/dev/client/content-api" value="1483906462000" />
+            <entry key="$USER_HOME$/dev/client/counter-reports" value="2948644034000" />
+            <entry key="$USER_HOME$/dev/client/elmo" value="2926271194000" />
+            <entry key="$USER_HOME$/dev/client/oscar" value="4469111332000" />
+            <entry key="$USER_HOME$/dev/client/oscar-fulltext-xslt" value="1457599971000" />
+            <entry key="$USER_HOME$/dev/client/recruitment-tests/pramod_bansal" value="1471856825000" />
+            <entry key="$USER_HOME$/dev/client/the-count" value="1487775309000" />
+            <entry key="$USER_HOME$/dev/personal/bob" value="1456153528000" />
+            <entry key="$USER_HOME$/dev/personal/configur8/java" value="1429529854000" />
+            <entry key="$USER_HOME$/dev/personal/configur8/kotlin" value="1486915684000" />
+            <entry key="$USER_HOME$/dev/personal/databob.kotlin" value="1489574083000" />
+            <entry key="$USER_HOME$/dev/personal/k2" value="1488022591000" />
+            <entry key="$USER_HOME$/dev/personal/metrique" value="1433146949000" />
+          </map>
+        </option>
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/dev/client/ow/dd-spike" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/client/ow/load.tester.sandbox" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/client/ow/payments_hub" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/client/ow/teal" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/personal/_misc/allure-gradle" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/personal/_misc/dmcg" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/personal/_misc/eli" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/personal/_misc/grpc-java" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/personal/_misc/grpc-java/examples" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/personal/_misc/http4k" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/personal/_misc/intellij-coverage" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/personal/_misc/ktor" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/personal/_misc/micronaut-core" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/personal/_misc/serverless-deployer" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/personal/_misc/traveling_salesman_demo" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/personal/daviddenton/configur8/kotlin" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/personal/daviddenton/databob.kotlin" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/personal/daviddenton/gradle-hello-world-plugin" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/personal/daviddenton/gradle-plugin-example" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/personal/daviddenton/http-to-https-proxy" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/personal/daviddenton/http4kbox" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/personal/daviddenton/jenkins-automation" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/personal/daviddenton/junitQuickstart" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/personal/daviddenton/kotlin-http4k-realworld-example-app" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/personal/daviddenton/optik" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/personal/daviddenton/presentations" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/personal/daviddenton/protokruft" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/personal/daviddenton/prototest" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/personal/daviddenton/scratch" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/personal/daviddenton/testing-gradle-plugins/samples/code/url-verifier-plugin" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/personal/daviddenton/testing-patterns" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/personal/http4k-api-openservicebroker" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/personal/http4k-micro" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/personal/http4k/FrameworkBenchmarks/frameworks/Kotlin/http4k" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/personal/http4k/http4k" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/personal/http4k/http4k-containerized" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/personal/http4k/http4k-contract-example-app" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/personal/http4k/http4k-contract-todo-backend" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/personal/http4k/http4k-demo-graal" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/personal/http4k/http4k-demo-irc" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/personal/http4k/http4k-demo-s3box" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/personal/http4k/http4k-examples" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/personal/http4k/http4k-graal-experiment" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/personal/http4k/http4k-heroku-travis-example-app" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/personal/http4k/http4k-realworld" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/personal/realworldkotlin/application" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/personal/realworldkotlin/kotlin-workshop" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/personal/realworldkotlin/metrique" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/personal/realworldkotlin/pract" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/personal/realworldkotlin/practice" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/personal/tax-calculator" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/personal/workshop" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/tax-calculator" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State />
+              <State>
+                <id>Class structureJava</id>
+              </State>
+              <State>
+                <id>Code maturityJava</id>
+              </State>
+              <State>
+                <id>JUnitJava</id>
+              </State>
+              <State>
+                <id>Java</id>
+              </State>
+              <State>
+                <id>Java 5Java language level migration aidsJava</id>
+              </State>
+              <State>
+                <id>Java 7Java language level migration aidsJava</id>
+              </State>
+              <State>
+                <id>Java 8Java language level migration aidsJava</id>
+              </State>
+              <State>
+                <id>Java language level migration aidsJava</id>
+              </State>
+              <State>
+                <id>JavadocJava</id>
+              </State>
+              <State>
+                <id>Numeric issuesJava</id>
+              </State>
+              <State>
+                <id>PerformanceJava</id>
+              </State>
+              <State>
+                <id>TestNGJava</id>
+              </State>
+              <State>
+                <id>Threading issuesJava</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>Angular</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+      <component name="PropertiesComponent">
+        <property name="GoToClass.includeLibraries" value="false" />
+        <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+        <property name="GoToFile.includeJavaFiles" value="false" />
+        <property name="MemberChooser.copyJavadoc" value="false" />
+        <property name="MemberChooser.showClasses" value="true" />
+        <property name="MemberChooser.sorted" value="false" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="project.structure.last.edited" value="Problems" />
+        <property name="project.structure.proportion" value="0.0" />
+        <property name="project.structure.side.proportion" value="0.0" />
+        <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+      </component>
+      <component name="RunDashboard">
+        <option name="ruleStates">
+          <list>
+            <RuleState>
+              <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+            </RuleState>
+            <RuleState>
+              <option name="name" value="StatusDashboardGroupingRule" />
+            </RuleState>
+          </list>
+        </option>
+      </component>
+      <component name="RunManager">
+        <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+        </configuration>
+        <configuration default="true" type="Applet">
+          <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="Application" factoryName="Application">
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="JUnit" factoryName="JUnit">
+          <option name="TEST_OBJECT" value="class" />
+          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="TestNG">
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <properties />
+          <listeners />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+      </component>
+      <component name="SbtLocalSettings">
+        <option name="modificationStamps">
+          <map>
+            <entry key="$USER_HOME$/Desktop/PaintConsole" value="1484530522000" />
+            <entry key="$USER_HOME$/Desktop/console-draw" value="1479032563000" />
+            <entry key="$USER_HOME$/Downloads/AnsariY-springernaturedrawingapp-f7ffa2e3fb7c" value="1482261654000" />
+            <entry key="$USER_HOME$/Downloads/ConsoleCanvasApp" value="1471533570000" />
+            <entry key="$USER_HOME$/Downloads/Lukasz_Gasior" value="1479047806000" />
+            <entry key="$USER_HOME$/Downloads/SpringerNature-AG" value="1462525231000" />
+            <entry key="$USER_HOME$/Downloads/SpringerNature-SM" value="1478787902000" />
+            <entry key="$USER_HOME$/Downloads/Test-SpringerNature" value="1464030454000" />
+            <entry key="$USER_HOME$/Downloads/marco_vermeulen" value="1462266289000" />
+            <entry key="$USER_HOME$/Downloads/springer" value="1466272978000" />
+            <entry key="$USER_HOME$/Downloads/springer-nature-test" value="1479924976000" />
+            <entry key="$USER_HOME$/Downloads/watermark-test" value="1480947630000" />
+            <entry key="$USER_HOME$/Downloads/yanewman" value="1470083785000" />
+            <entry key="$USER_HOME$/dev/client/acme" value="1437404352000" />
+            <entry key="$USER_HOME$/dev/client/bippy" value="1461536542000" />
+            <entry key="$USER_HOME$/dev/client/bmc-business-partners" value="1441381285000" />
+            <entry key="$USER_HOME$/dev/client/clewso" value="1486646158000" />
+            <entry key="$USER_HOME$/dev/client/collina" value="1478705757000" />
+            <entry key="$USER_HOME$/dev/client/fintrospect-stack" value="1466867492000" />
+            <entry key="$USER_HOME$/dev/client/groverator" value="1481621188000" />
+            <entry key="$USER_HOME$/dev/client/handlebars.scala" value="1475132971000" />
+            <entry key="$USER_HOME$/dev/client/jeton" value="1469110145000" />
+            <entry key="$USER_HOME$/dev/client/layabout" value="1484906376000" />
+            <entry key="$USER_HOME$/dev/client/microservice-example-finagle" value="1481621255000" />
+            <entry key="$USER_HOME$/dev/client/recruitment-tests-watermark/daviddenton" value="1473854749000" />
+            <entry key="$USER_HOME$/dev/client/springagle" value="1432715423000" />
+            <entry key="$USER_HOME$/dev/client/springer-token-service" value="1464860755000" />
+            <entry key="$USER_HOME$/dev/client/the-count" value="1453640477000" />
+            <entry key="$USER_HOME$/dev/client/vito" value="1479302679000" />
+            <entry key="$USER_HOME$/dev/personal/FrameworkBenchmarks/frameworks/Scala/finatra" value="1478367516000" />
+            <entry key="$USER_HOME$/dev/personal/FrameworkBenchmarks/frameworks/Scala/finch" value="1456581973000" />
+            <entry key="$USER_HOME$/dev/personal/FrameworkBenchmarks/frameworks/Scala/fintrospect" value="1481877914000" />
+            <entry key="$USER_HOME$/dev/personal/configur8/scala" value="1429360632000" />
+            <entry key="$USER_HOME$/dev/personal/crossyfield" value="1464251539000" />
+            <entry key="$USER_HOME$/dev/personal/databob.scala" value="1479377200000" />
+            <entry key="$USER_HOME$/dev/personal/finagle-aws" value="1462889325000" />
+            <entry key="$USER_HOME$/dev/personal/finagle-circuit" value="1446307823000" />
+            <entry key="$USER_HOME$/dev/personal/finagle-netty-bug" value="1484905116000" />
+            <entry key="$USER_HOME$/dev/personal/finagle-websocket" value="1470389035000" />
+            <entry key="$USER_HOME$/dev/personal/finch" value="1476867366000" />
+            <entry key="$USER_HOME$/dev/personal/fintrospect" value="1484911836000" />
+            <entry key="$USER_HOME$/dev/personal/fintrospect-example-app" value="1483701296000" />
+            <entry key="$USER_HOME$/dev/personal/fintrospect-todo-backend" value="1476959972000" />
+            <entry key="$USER_HOME$/dev/personal/fpis" value="1451583062000" />
+            <entry key="$USER_HOME$/dev/personal/handlebars.scala" value="1484548954000" />
+            <entry key="$USER_HOME$/dev/personal/json4s" value="1476783550000" />
+            <entry key="$USER_HOME$/dev/personal/msgpack4s" value="1478708453000" />
+            <entry key="$USER_HOME$/dev/personal/multi" value="4399054295000" />
+            <entry key="$USER_HOME$/dev/personal/play-authenticate/code" value="1458154210000" />
+            <entry key="$USER_HOME$/dev/personal/pomgraph" value="1474277539000" />
+            <entry key="$USER_HOME$/dev/personal/scala-extensions" value="2958754790000" />
+            <entry key="$USER_HOME$/dev/personal/web-frameworks-templates/fintrospect" value="1481619026000" />
+          </map>
+        </option>
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/dev/personal/_misc/fintrospect-swagger" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/personal/daviddenton/fintrospect" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="ScalaSbtSettings">
+        <option name="maximumHeapSize" value="2048" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="GlobalLibrariesConfigurable.UI">
+            <settings>
+              <last-edited>scala-sdk-2.10.5</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="JdkListConfigurable.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

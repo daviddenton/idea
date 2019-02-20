@@ -1,0 +1,88 @@
+<application>
+  <component name="CommunityFileTypes" version="11">
+    <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;__pycache__;.bundle;*.rbc;" />
+    <extensionMap>
+      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern="run-post-deploy-tests-staging" type="PLAIN_TEXT" />
+      <mapping pattern="run-external-and-cdcs" type="PLAIN_TEXT" />
+      <mapping pattern="run-smoke-tests" type="PLAIN_TEXT" />
+      <mapping pattern="external-and-cdcs" type="PLAIN_TEXT" />
+      <mapping pattern="run-post-deploy-tests" type="PLAIN_TEXT" />
+      <mapping pattern="runLocal" type="PLAIN_TEXT" />
+      <mapping pattern="sbt" type="PLAIN_TEXT" />
+      <mapping pattern="run-post-deploy-tests-dev" type="PLAIN_TEXT" />
+      <mapping pattern="requirements" type="PLAIN_TEXT" />
+      <mapping pattern="run-post-deploy-tests-live" type="PLAIN_TEXT" />
+      <mapping ext="yml" type="PLAIN_TEXT" />
+      <mapping ext="tagx" type="XML" />
+      <mapping ext="jspx" type="XML" />
+    </extensionMap>
+    <setting name="fileTypeChangedCounter" value="14" />
+  </component>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="*Dockerfile*" type="Dockerfile" />
+      <mapping ext="dockerfile" type="Dockerfile" />
+      <mapping ext="jade" type="HTML" />
+      <mapping ext="ejs" type="HTML" />
+      <mapping pattern="run-post-deploy-tests-dev" type="PLAIN_TEXT" />
+      <mapping pattern="Ship" type="PLAIN_TEXT" />
+      <mapping pattern="env" type="PLAIN_TEXT" />
+      <mapping pattern="build,gradle" type="PLAIN_TEXT" />
+      <mapping pattern="gradlew" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="CNAME" type="PLAIN_TEXT" />
+      <mapping pattern="Makefile2" type="PLAIN_TEXT" />
+      <mapping pattern="js" type="PLAIN_TEXT" />
+      <mapping pattern="asd" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern=".soundcloud" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="OnClasspathNotAtRoot" type="PLAIN_TEXT" />
+      <mapping pattern=".name" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern="run-dashboard-generator" type="PLAIN_TEXT" />
+      <mapping pattern="chocolate" type="PLAIN_TEXT" />
+      <mapping pattern="590d62c6-cd46-4662-9236-e6dae3fb77f5" type="PLAIN_TEXT" />
+      <mapping pattern="buildLinuxDocker" type="PLAIN_TEXT" />
+      <mapping pattern="4aa04a01-9b96-4c5e-947c-95255d3cda23" type="PLAIN_TEXT" />
+      <mapping pattern="01fa83f6-316e-4adc-bc15-e8791fae6bb2" type="PLAIN_TEXT" />
+      <mapping pattern="App2-Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern="docker" type="PLAIN_TEXT" />
+      <mapping pattern="build" type="PLAIN_TEXT" />
+      <mapping pattern="404" type="PLAIN_TEXT" />
+      <mapping pattern="source_code" type="PLAIN_TEXT" />
+      <mapping pattern="buildExe" type="PLAIN_TEXT" />
+      <mapping pattern="500" type="PLAIN_TEXT" />
+      <mapping pattern="coveragefile" type="PLAIN_TEXT" />
+      <mapping pattern="maya2" type="PLAIN_TEXT" />
+      <mapping pattern="LICENCE" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="ci_build" type="PLAIN_TEXT" />
+      <mapping pattern="ci_build_backend" type="PLAIN_TEXT" />
+      <mapping pattern=".codebeatignore" type="PLAIN_TEXT" />
+      <mapping pattern="bob" type="PLAIN_TEXT" />
+      <mapping pattern="sbt" type="PLAIN_TEXT" />
+      <mapping ext="graphviz" type="PLAIN_TEXT" />
+      <mapping ext="gpg" type="PLAIN_TEXT" />
+      <mapping ext="script" type="PLAIN_TEXT" />
+      <mapping ext="map" type="PLAIN_TEXT" />
+      <mapping ext="resource" type="PLAIN_TEXT" />
+      <mapping ext="myxml" type="PLAIN_TEXT" />
+      <mapping ext="example" type="PLAIN_TEXT" />
+      <mapping ext="actual" type="PLAIN_TEXT" />
+      <mapping ext="ic" type="PLAIN_TEXT" />
+      <mapping ext="dependencies" type="PLAIN_TEXT" />
+      <mapping ext="ktt" type="PLAIN_TEXT" />
+      <mapping ext="list" type="PLAIN_TEXT" />
+      <mapping ext="peb" type="PLAIN_TEXT" />
+      <mapping ext="types" type="PLAIN_TEXT" />
+      <mapping ext="env" type="PLAIN_TEXT" />
+      <mapping ext="manifest" type="PLAIN_TEXT" />
+      <mapping ext="bpmn" type="XML" />
+      <mapping ext="tpl" type="Handlebars/Mustache" />
+    </extensionMap>
+  </component>
+</application>
