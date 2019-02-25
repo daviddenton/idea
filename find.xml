@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.proto" />
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.yml</mask>
@@ -31,7 +32,7 @@
     <mask>*.yaml</mask>
     <mask>Jenkinsfile</mask>
     <mask>*.kt</mask>
-    <mask>*.proto</mask>
     <mask>*.gradle</mask>
+    <mask>*.proto</mask>
   </component>
 </application>
