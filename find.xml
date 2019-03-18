@@ -32,8 +32,8 @@
     <mask>Jenkinsfile</mask>
     <mask>*.properties</mask>
     <mask>*.gradle</mask>
-    <mask>*.kt</mask>
     <mask>Makefile</mask>
     <mask>*.proto</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
