@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.mxml</mask>
     <mask>*.yml</mask>
     <mask>*Docker*</mask>
     <mask>.gitignore</mask>
@@ -33,5 +32,6 @@
     <mask>*.kt</mask>
     <mask>*.gradle</mask>
     <mask>*.proto</mask>
+    <mask>*.ts</mask>
   </component>
 </application>

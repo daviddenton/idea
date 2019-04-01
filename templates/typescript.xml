@@ -1,0 +1,5 @@
+<templateSet group="typescript">
+  <template name="sout" value="console.log($content$)" toReformat="false" toShortenFQNames="true">
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>
